@@ -3,7 +3,8 @@
 
 ## 依赖
 请到 [Airtest](http://airtest.netease.com/) 官网下载Aritest
-脚本具体使用方法将airtest官方文档
+
+脚本具体使用方法参见airtest官方文档
 
 ## 说明
 该脚本可实现自动循环刷某一关卡。
