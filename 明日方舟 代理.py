@@ -12,10 +12,10 @@ while t<5:
     touch(Template(r"tpl1576587041414.png", record_pos=(0.362, 0.11), resolution=(1440, 810)))
 
     touch(wait(Template(r"tpl1576587665895.png", record_pos=(-0.394, -0.128), resolution=(1440, 810)),timeout=30000,interval=3.0))
-    
+    sleep(3.0)
     touch((890,340))
     
-    sleep(3)
+    sleep(3.0)
 
     if t==5:
         break
