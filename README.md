@@ -1,5 +1,5 @@
 # Arknights-Auto
-明日方舟 代理
+明日方舟 自动刷副本
 
 ## 依赖
 请到 [Airtest](http://airtest.netease.com/) 官网下载Aritest
